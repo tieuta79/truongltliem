@@ -1,0 +1,7 @@
+{
+    "name": "Products",
+    "description": "Products is plugin support for post type products",
+    "icon":"fa fa-shopping-cart",
+    "author": "ITTVN",
+    "version": "1.0"
+}

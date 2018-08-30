@@ -1,0 +1,13 @@
+{
+    "name": "Template default",    
+    "site": {
+        "description": "Template frontend for CMS",
+        "image": "screenshot.png",
+        "options": true
+    },
+    "admin": {
+        "description": "Template admin for CMS",
+        "image": "screenshot.png"        
+    },
+    "version":"1.0"
+}

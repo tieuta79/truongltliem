@@ -1,0 +1,9 @@
+<CakePHPBakeOpenTagphp
+
+return [
+    'Menus' => [
+        'Admin' => [
+
+        ]
+    ]
+];

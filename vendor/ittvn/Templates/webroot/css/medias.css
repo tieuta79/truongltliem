@@ -1,0 +1,4 @@
+.active-node {color: #c79121;}
+.tree li span{display: inherit;padding: 8px 8px;}
+.add_folder{cursor: pointer}
+.hide_media{display: none;}

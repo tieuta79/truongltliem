@@ -1,0 +1,9 @@
+{
+    "name": "It Themes",    
+    "site": {
+        "description": "Giao diện chính cho network",
+        "image": "screenshot.png",
+        "options": true
+    },
+    "version":"1.0"
+}

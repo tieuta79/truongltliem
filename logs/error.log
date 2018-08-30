@@ -1,0 +1,228 @@
+2017-12-01 10:25:58 Error: Fatal Error (1): Call to undefined method ItThemes\View\AppView::getData() in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php, line 209]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 10:25:58 Error: [Cake\Error\FatalErrorException] Call to undefined method ItThemes\View\AppView::getData() in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php on line 209
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/home/truonghoc...', 209)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-01 10:27:01 Error: Fatal Error (1): Call to undefined method ItThemes\View\AppView::getResult() in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php, line 209]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 10:27:02 Error: [Cake\Error\FatalErrorException] Call to undefined method ItThemes\View\AppView::getResult() in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php on line 209
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/home/truonghoc...', 209)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-01 10:27:19 Error: Fatal Error (1): Call to undefined method ItThemes\View\AppView::data() in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php, line 209]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 10:27:19 Error: [Cake\Error\FatalErrorException] Call to undefined method ItThemes\View\AppView::data() in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php on line 209
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/home/truonghoc...', 209)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-01 10:27:56 Error: Fatal Error (1): Cannot use object of type Contents\View\Helper\ContentHelper as array in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php, line 209]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 10:27:56 Error: [Cake\Error\FatalErrorException] Cannot use object of type Contents\View\Helper\ContentHelper as array in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/config/bootstrap.php on line 209
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Cannot use obje...', '/home/truonghoc...', 209)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-01 11:49:16 Error: Fatal Error (1): Call to undefined method Cake\I18n\Time::toArray() in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/src/View/Helper/ContentHelper.php, line 42]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 11:49:17 Error: [Cake\Error\FatalErrorException] Call to undefined method Cake\I18n\Time::toArray() in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/src/View/Helper/ContentHelper.php on line 42
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/home/truonghoc...', 42)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-01 11:49:32 Error: Fatal Error (1): Cannot use object of type Cake\I18n\Time as array in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/src/View/Helper/ContentHelper.php, line 42]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 11:49:32 Error: [Cake\Error\FatalErrorException] Cannot use object of type Cake\I18n\Time as array in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/src/View/Helper/ContentHelper.php on line 42
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Cannot use obje...', '/home/truonghoc...', 42)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-01 11:53:48 Error: Fatal Error (4): syntax error, unexpected 'die' (T_EXIT) in [/home/truonghocketnoi/public_html/vendor/ittvn/Contents/src/View/Helper/ContentHelper.php, line 43]
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-01 11:53:48 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'die' (T_EXIT) in /home/truonghocketnoi/public_html/vendor/ittvn/Contents/src/View/Helper/ContentHelper.php on line 43
+Request URL: /gioi-thieu
+Client IP: 192.168.1.8
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', '/home/truonghoc...', 43)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-04 14:38:17 Error: Fatal Error (1): Using $this when not in object context in [/home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php, line 43]
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-04 14:38:17 Error: [Cake\Error\FatalErrorException] Using $this when not in object context in /home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php on line 43
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Using $this whe...', '/home/truonghoc...', 43)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-04 14:44:24 Error: Fatal Error (1): Cannot instantiate trait Cake\View\CellTrait in [/home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php, line 42]
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-04 14:44:25 Error: [Cake\Error\FatalErrorException] Cannot instantiate trait Cake\View\CellTrait in /home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php on line 42
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Cannot instanti...', '/home/truonghoc...', 42)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-04 14:44:48 Error: Fatal Error (1): Cannot instantiate abstract class Cake\View\Cell in [/home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php, line 42]
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-04 14:44:49 Error: [Cake\Error\FatalErrorException] Cannot instantiate abstract class Cake\View\Cell in /home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php on line 42
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Cannot instanti...', '/home/truonghoc...', 42)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-04 14:45:21 Error: Fatal Error (1): Class 'ItForms\View\Cell' not found in [/home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php, line 42]
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-04 14:45:21 Error: [Cake\Error\FatalErrorException] Class 'ItForms\View\Cell' not found in /home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php on line 42
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'ItForms\\...', '/home/truonghoc...', 42)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-12-04 14:54:40 Error: Fatal Error (1): Class 'ItForms\View\Cell' not found in [/home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php, line 42]
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-12-04 14:54:40 Error: [Cake\Error\FatalErrorException] Class 'ItForms\View\Cell' not found in /home/truonghocketnoi/public_html/vendor/ittvn/Ittvn/src/Utility/Shortcode.php on line 42
+Request URL: /lien-he
+Client IP: 192.168.1.6
+Stack Trace:
+#0 /home/truonghocketnoi/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'ItForms\\...', '/home/truonghoc...', 42)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+

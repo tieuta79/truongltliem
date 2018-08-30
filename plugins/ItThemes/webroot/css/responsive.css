@@ -1,0 +1,26 @@
+/* Extra small devices (portrait phones, less than 544px) */
+@media (max-width: 543px) { 
+    /*#header .header-top .nav a span{display: none;}*/
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) { 
+    .message_error{width: 100%;}
+    #header .menus .navbar-nav .nav-item+.nav-item{margin-left: 0!important}
+    .itmodal a{display: inherit;}
+    .btn-login-google{margin-bottom: 20px;}
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) { 
+
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199px) {
+
+}
+
+@media (min-width: 1200px) { 
+    #header .menus .navbar-nav .nav-item+.nav-item{margin-left: 32px;}
+}

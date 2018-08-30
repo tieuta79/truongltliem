@@ -1,0 +1,9 @@
+{
+    "name": "New Themes",    
+    "site": {
+        "description": "Test Create new themes",
+        "image": "screenshot.png",
+        "options": true
+    },
+    "version":"1.0"
+}

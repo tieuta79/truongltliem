@@ -1,0 +1,7 @@
+{
+    "name": "Address",
+    "description": "Countries is plugin support for post type address",
+    "icon":"fa fa-map-marker",
+    "author": "ITTVN",
+    "version": "1.0"
+}

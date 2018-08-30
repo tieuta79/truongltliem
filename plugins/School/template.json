@@ -1,0 +1,9 @@
+{
+    "name": "Trường học - mẫu 1",    
+    "site": {
+        "description": "Giao diện cho website Trường Học",
+        "image": "screenshot.png",
+        "options": true
+    },
+    "version":"1.0"
+}

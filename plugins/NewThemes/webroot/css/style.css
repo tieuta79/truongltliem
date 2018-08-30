@@ -1,0 +1,66 @@
+/*.no-gutters > .col, .no-gutters > [class*="col-"] {padding-left: 0; padding-right: 0; }
+.no-gutters {
+    margin-left: 0;
+    margin-right: 0;
+}
+.no-gutters .pr-2 {padding-right: .5rem!important;}
+.no-gutters .pl-2 {padding-left: .5rem!important;}
+.navbar-toggleable-md .navbar-toggler {display: none;}
+.navbar-toggleable-md .navbar-collapse {
+    display: flex;
+    width: 100%;
+}*/
+body p {font-size: .82rem;}
+.collapse.in {display: block;}
+.card-header{padding: 0.5rem 1.25rem!important;}
+.menu{border-bottom: 0px solid #dc2a0b;border-top: 1px solid #014975;}
+.menu .navbar-light .navbar-nav .nav-link{color:#fff}
+.menu .navbar-light .navbar-nav .active .nav-link, .menu .navbar-light .navbar-nav .nav-link:hover{color:#0078cc}
+.menu .navbar-light .navbar-nav > li+li{border-left:1px solid #fff;}
+.menu .dropdown-menu{background:#333; color:#fff; margin: 0;}
+.menu .dropdown-item{color:#fff}
+.menu .dropdown-item:focus, .dropdown-item:hover{background:none;color:#D3280B}
+.bg-red-menu{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff0f0f+0,ff4949+49,ff7070+100 */
+background: #ff0f0f; /* Old browsers */
+background: -moz-linear-gradient(top, #ff0f0f 0%, #ff4949 49%, #ff7070 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #ff0f0f 0%,#ff4949 49%,#ff7070 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #ff0f0f 0%,#ff4949 49%,#ff7070 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0f0f', endColorstr='#ff7070',GradientType=0 ); /* IE6-9 */
+}
+.bg-red{background: #D3280B}
+.navbar-toggleable-md .navbar-nav .nav-link{padding: 0px 15px 0px;}
+
+#content {padding: 20px 0;}
+.home_slider {padding-bottom: 20px; display: inline-block; width: 100%; }
+.list-group.notify h6, .list-group.notify h6 a {font-size: 14px; width: 100%;} 
+.list-group.notify p {font-size: 12px;}
+.list-group.notify a {font-size: 12px; }
+
+.list-group-item.active a {color: #fff;}
+.list-group-item:hover a,.list-group-item .list-group-sub-menu li:hover a { text-decoration: none;}
+.list-group-item {position: relative;}
+.list-group-item .list-group-sub-menu {
+    position: absolute; right: -250px; top:0; display: none; padding: 0; background: #fff; z-index: 999; width: 250px;
+}
+.list-group-item:hover .list-group-sub-menu {display: inline-block;}
+.list-group-item .list-group-sub-menu li {list-style: none;}
+.list-group-item .list-group-sub-menu li a {width: 100%; display: inline-block; text-shadow:none;}
+
+.responsive-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 60px; overflow: hidden;
+}
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.footer {border-top: 1px solid #ccc; padding: 10px 0; }
+

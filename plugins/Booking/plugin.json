@@ -1,0 +1,7 @@
+{
+    "name": "Booking for hotel",
+    "description": "Booking is plugin support for post type hotel",
+    "icon":"fa fa-building",
+    "author": "ITTVN",
+    "version": "1.0"
+}

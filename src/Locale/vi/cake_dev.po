@@ -1,0 +1,52 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright ITTVN <info@ittvn.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2017-09-04 15:35+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Adapter/CachedDbAcl.php:112
+msgid "Entity class {0} not found in CachedDbAcl::_getNodeCacheKey() when trying to bind {1} object"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Behavior/AclBehavior.php:87
+msgid "Callback {0} not defined in {1}"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Behavior/AclBehavior.php:105
+msgid "AclBehavior is setup with more then one type, please specify type parameter for node()"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Behavior/AclBehavior.php:110
+msgid "ref parameter must be a string or an Entity"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Table/AclNodesTable.php:130
+msgid "Entity class {0} not found in AclNode::node() when trying to bind {1} object"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Table/AclNodesTable.php:179
+msgid "AclNode::node() - Couldn't find {0} node identified by \"{1}\""
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Table/PermissionsTable.php:178
+msgid "{0} - Invalid node"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Model/Table/PermissionsTable.php:196
+msgid "Invalid permission key \"{0}\""
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/View/Helper/JsHelper.php:126
+msgid "JsHelper:: Missing Method %s is undefined"
+msgstr ""
+

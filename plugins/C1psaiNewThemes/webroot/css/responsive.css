@@ -1,0 +1,26 @@
+/* Extra small devices (portrait phones, less than 544px) */
+@media (max-width: 543px) { 
+    /*#header .header-top .nav a span{display: none;}*/
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) { 
+    
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) { 
+    .col-lg-6.pr-2.pl-2.pb-2 {padding: 0!important;}
+    .list-group-item .list-group-sub-menu {
+        position: relative; right: 0; width: 100%;
+    }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199px) {
+
+}
+
+@media (min-width: 1200px) { 
+   
+}

@@ -1,0 +1,2904 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright ITTVN <info@ittvn.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2017-09-04 15:35+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/view.ctp:179
+msgid "<%= ucfirst($action); %> <%= $singularVar %>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/html/index.ctp:110
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/html/edit_relation.ctp:114
+msgid "Edit <%= ucfirst($singularVar) %>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Element/form_html.ctp:213
+msgid "Add <%= ucfirst($singularVar) %>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:22
+msgid "Delete"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/add_associated.ctp:73
+msgid "Add Associated "
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:15
+msgid "Edit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Event/UsersEventHandler.php:124
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/html/edit_relation.ctp:111
+msgid "<%= Inflector::humanize($action); %> "
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:21
+msgid "Add "
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/dashboard.ctp:5
+msgid "Dashboard"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/edit_associated.ctp:73
+msgid "Edit Associated "
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/html/index.ctp:119
+msgid "All <%= ucfirst($singularVar) %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/login.ctp:1
+msgid "Login"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/login.ctp:22
+msgid "Username / Email"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/login.ctp:33
+msgid "Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/BakeTemplates/src/Template/Bake/Template/html/login.ctp:17
+msgid "Remember Me"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/login.ctp:43
+msgid "Sign In"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/index.ctp:19
+msgid "Add new"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Common/index.ctp:43
+msgid "(Trash)"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/index.ctp:25
+msgid "All"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Common/index.ctp:30
+msgid "Trash"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:13
+msgid "Galleries"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Event/BookingEventHandler.php:134
+msgid "Rooms & Price"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Admin/Bookings/add.ctp:115
+msgid "Add booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Admin/Bookings/view.ctp:6
+msgid "Bookings"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Admin/Bookings/edit.ctp:114
+msgid "Edit booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Admin/Bookings/index.ctp:5
+msgid "All Booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Admin/Bookings/view.ctp:7
+msgid "View booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Cell/RoomTypes/featured.ctp:38
+msgid "%s View all Room Types"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:230
+msgid "Title"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/list_menu_admin.ctp:59
+msgid "Description"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:238
+msgid "Left"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:239
+msgid "Right"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/School/src/Template/Contents/view_roomtypes.ctp:7
+msgid "Room Types"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/School/src/Template/Contents/index_roomtypes.ctp:37
+msgid "Lias all %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/School/src/Template/Layout/default.ctp:86
+msgid "Home"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/School/src/Template/Element/paging.ctp:16
+msgid "Prev"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/School/src/Template/Element/paging.ctp:18
+msgid "Next"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/config/bootstrap.php:7
+msgid "Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/config/bootstrap.php:182
+msgid "Country"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:167
+msgid "Slug"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/config/bootstrap.php:23
+msgid "Code"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/edit.ctp:63
+msgid "Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/edit.ctp:74
+msgid "City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/edit.ctp:85
+msgid "Ward"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Cities/index.ctp:6
+msgid "Cities"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Cities/add.ctp:6
+msgid "Add City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Cities/edit.ctp:6
+msgid "Edit City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Countries/index.ctp:6
+msgid "Countries"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Countries/add.ctp:6
+msgid "Add Country"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Countries/edit.ctp:6
+msgid "Edit Country"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Provinces/index.ctp:6
+msgid "Provinces"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Provinces/add.ctp:6
+msgid "Add Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Provinces/edit.ctp:6
+msgid "Edit Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Wards/index.ctp:6
+msgid "Wards"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Wards/add.ctp:6
+msgid "Add Ward"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Admin/Wards/edit.ctp:6
+msgid "Edit Ward"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/config/theme_options.php:7
+msgid "Custom Css"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/config/theme_options.php:12
+msgid "Custom Js"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/index.ctp:64
+msgid "Add to Cart"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/viewed.ctp:43
+msgid "Quick View"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Categories/view_products.ctp:66
+msgid "Add to Wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Filters/view.ctp:2
+msgid "Products"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/view_ajax.ctp:43
+msgid "Id Product:  %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/view_ajax.ctp:53
+msgid "Size"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/view_ajax.ctp:56
+msgid "Sizing guide"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Contents/view_products.ctp:76
+msgid "To Order by phone %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Customers/menu.ctp:41
+msgid "Wish List"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:241
+msgid "Send Email"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Contents/view_products.ctp:86
+msgid "Contact an ambassador"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Contents/view_products.ctp:98
+msgid "Details of this product"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Element/footer.ctp:20
+msgid "© 2016 Bản quyền thuộc về %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Element/menu_account.ctp:11
+msgid "Hello %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Element/menu_account.ctp:13
+msgid "Account"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/header.ctp:68
+msgid "Logout"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:179
+msgid "Register"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/Flash/error.ctp:3
+msgid "Alert!"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/Flash/success.ctp:3
+msgid "Success!"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Email/html/register.ctp:5
+msgid "Infomation of %s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Email/html/register.ctp:6
+msgid "Email"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Email/html/register.ctp:7
+msgid "Phone"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Email/html/register.ctp:8
+msgid "Username"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Email/html/register.ctp:10
+msgid "Please verify your account by below link"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Filters/view.ctp:8
+msgid "%s of %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Pages/shop.ctp:49
+msgid "Sản phẩm nổi bật"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/featured.ctp:30
+msgid "Xem thêm"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Customers/menu.ctp:23
+msgid "Infomation"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:28
+msgid "First Name"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:39
+msgid "Middle Name"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:90
+msgid "Last Name"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:62
+msgid "Sex"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:75
+msgid "Birthday"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/edit_customers.ctp:85
+msgid "Change password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/edit_customers.ctp:97
+msgid "Password old"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/edit_customers.ctp:106
+msgid "Password new"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/edit_customers.ctp:116
+msgid "Password confirm"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/edit.ctp:110
+msgid "Update"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/login_customers.ctp:54
+msgid "Forgot your password?"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:23
+msgid "Infomation customer"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:21
+msgid "Avatar"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/photo_uploads.ctp:4
+msgid "Image"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:134
+msgid "Infomation account"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/register_customers.ctp:163
+msgid "Confirm Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Kimkhanh/src/Template/Users/view_customers.ctp:11
+msgid "My account"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:26
+msgid "Full name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:32
+msgid "User name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:253
+msgid "Created"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:7
+msgid "Name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/config/bootstrap.php:27
+msgid "Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Themes/options.ctp:14
+msgid "Options"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:27
+msgid "Status"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/index.ctp:35
+msgid "Price"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/bootstrap.php:170
+msgid "Price from"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Filters/view.ctp:6
+msgid "filters"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:10
+msgid "detail-description"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:11
+msgid "details"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:15
+msgid "address"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/payment.ctp:45
+msgid "order"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:18
+msgid "order detail"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:22
+msgid "wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/config/routes.php:24
+msgid "add cart"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Element/cart_info.ctp:51
+msgid "view cart"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/checkout.ctp:10
+msgid "checkout"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/payment.ctp:10
+msgid "payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/WishlistsController.php:85
+msgid "The wishlist has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/WishlistsController.php:89
+msgid "Please login and add again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Event/ProductsEventHandler.php:127
+msgid "Cross Products"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/list_menu_admin.ctp:69
+msgid "Attributes"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/index.ctp:28
+msgid "Add Address"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Customers/menu.ctp:29
+msgid "Addresses"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/edit.ctp:41
+msgid "Company"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Addresses/recent.ctp:14
+msgid "Default"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/edit.ctp:22
+msgid "Edit Address"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Addresses/recent.ctp:4
+msgid "Address book"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/checkout.ctp:28
+msgid "%s, %s, %s, %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Attributes/add.ctp:6
+msgid "Add Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Attributes/edit.ctp:6
+msgid "Edit Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Filters/add.ctp:7
+msgid "Add filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Filters/edit.ctp:6
+msgid "Edit filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Filters/index.ctp:5
+msgid "All Filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Filters/view.ctp:7
+msgid "View filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Payments/add.ctp:7
+msgid "Add Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Payments/index.ctp:4
+msgid "Payments"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Payments/edit.ctp:7
+msgid "Edit Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Payments/index.ctp:5
+msgid "All Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Products/customers.ctp:7
+msgid "Custommers"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Products/customers.ctp:8
+msgid "All Custommer"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Products/customers.ctp:16
+msgid "Add Custommer"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Wishlists/add.ctp:68
+msgid "Add wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Wishlists/view.ctp:6
+msgid "Wishlists"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Wishlists/edit.ctp:67
+msgid "Edit wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Wishlists/index.ctp:5
+msgid "All Wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Wishlists/view.ctp:7
+msgid "View wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Orders/recent.ctp:11
+msgid "View all"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/cart.ctp:10
+msgid "Cart"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Customers/menu.ctp:7
+msgid "My account of"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Customers/menu.ctp:17
+msgid "Infomation General"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/index.ctp:27
+msgid "My Orders"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Orders/recent.ctp:10
+msgid "Recent orders"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Cell/Logs/recent.ctp:11
+msgid "Date"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/index.ctp:34
+msgid "Product"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/index.ctp:37
+msgid "Total amount"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/index.ctp:56
+msgid "Delivery"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/index.ctp:56
+msgid "Waiting"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:5
+msgid "Filter By"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:33
+msgid "Sort By"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:36
+msgid "Price: Low to High"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:37
+msgid "Price: High to Low"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:38
+msgid "A-Z"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:39
+msgid "Z-A"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:40
+msgid "Oldest to Newest"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Cell/Products/filters.ctp:41
+msgid "Newest to Oldest"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:67
+msgid "Total"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Element/notify_product.ctp:11
+msgid "Product Added To %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Element/notify_product.ctp:11
+msgid "Shopping Cart"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Element/view_cart.ctp:13
+msgid "Product name"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:42
+msgid "Quantily"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:16
+msgid "Detail order #"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:23
+msgid "Order date"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:25
+msgid "Address people receiver"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:28
+msgid "Phone: %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/payment.ctp:17
+msgid "Method payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/index.ctp:32
+msgid "Payment by %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/checkout.ctp:34
+msgid "Assigned to this address"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/checkout.ctp:45
+msgid "You want delivery to another address? %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Products/checkout.ctp:45
+msgid "Add new shipping address"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/index.ctp:27
+msgid "Wish Lists"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/View/Cell/TablesCell.php:168
+msgid "Action"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Apis/add.ctp:74
+msgid "Add api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Apis/view.ctp:6
+msgid "Apis"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Apis/edit.ctp:73
+msgid "Edit api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Apis/index.ctp:5
+msgid "All Api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Apis/view.ctp:7
+msgid "View api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Domains/add.ctp:71
+msgid "Add domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Domains/view.ctp:6
+msgid "Domains"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Domains/edit.ctp:70
+msgid "Edit domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Domains/index.ctp:5
+msgid "All Domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Domains/view.ctp:7
+msgid "View domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Sites/add.ctp:6
+msgid "Add site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Sites/view.ctp:5
+msgid "Sites"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Sites/edit.ctp:6
+msgid "Edit site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Sites/index.ctp:5
+msgid "All Site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Admin/Sites/view.ctp:6
+msgid "View site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Cell/Sites/display.ctp:9
+msgid "Networks"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/View/Cell/SitesCell.php:90
+msgid "Main Site"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/AclExtras.php:173
+msgid "<error>Plugin {0} not found or not activated.</error>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/AclExtras.php:186
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/AclExtras.php:369
+msgid "Created Aco node: <success>{0}</success>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/AclExtras.php:433
+msgid "Unable to get methods for {0}"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/AclExtras.php:540
+msgid "Deleted Aco node: <warning>{0}</warning> and all children"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:102
+msgid "Acl database tables not found. To create them, run:"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:82
+msgid "Error: Your current CakePHP configuration is set to an ACL implementation other than DB."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:83
+msgid "Please change your core config to reflect your decision to use DbAcl before attempting to use this script"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:85
+msgid "Current ACL Classname: {0}"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:93
+msgid "Your database configuration was not found. Take a moment to create one."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:147
+msgid "/ can not be used as an alias!"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:147
+msgid "\t/ is the root, please supply a sub alias"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:153
+msgid "<success>New {0}</success> {1} created."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:155
+msgid "There was a problem creating a new {0} {1}."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:174
+msgid "Node Not Deleted"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:174
+msgid "There was an error deleting the {0}. Check that the node exists."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:176
+msgid "<success>{0} deleted.</success>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:196
+msgid "Error in setting new parent. Please make sure the parent node exists, and is not a descendant of the node specified."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:198
+msgid "Node parent set to {0}"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:217
+msgid "Supplied Node {0} not found"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:544
+msgid "No tree returned."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:221
+msgid "Path:"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:257
+msgid "{0} is <success>allowed</success>."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:259
+msgid "{0} is <error>not allowed</error>."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:273
+msgid "Permission <success>granted</success>."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:275
+msgid "Permission was <error>not granted</error>."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:289
+msgid "Permission denied."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:291
+msgid "Permission was not denied."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:305
+msgid "Permission inherited."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:307
+msgid "Permission was not inherited."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:544
+msgid "{0} not found"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:386
+msgid "Type of node to create."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:390
+msgid "A console tool for managing the DbAcl"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:392
+msgid "Create a new ACL node"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:394
+msgid "Creates a new ACL object <node> under the parent"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:395
+msgid "You can use `root` as the parent when creating nodes to create top level nodes."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:399
+msgid "The node selector for the parent."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:403
+msgid "The alias to use for the newly created node."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:409
+msgid "Deletes the ACL object with the given <node> reference"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:411
+msgid "Delete an ACL node."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:415
+msgid "The node identifier to delete."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:421
+msgid "Moves the ACL node under a new parent."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:423
+msgid "Moves the ACL object specified by <node> beneath <parent>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:427
+msgid "The node to move"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:431
+msgid "The new parent for <node>."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:437
+msgid "Print out the path to an ACL node."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:440
+msgid "Returns the path to the ACL object specified by <node>."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:441
+msgid "This command is useful in determining the inheritance of permissions for a certain object in the tree."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:446
+msgid "The node to get the path of"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:452
+msgid "Check the permissions between an ACO and ARO."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:455
+msgid "Use this command to check ACL permissions."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:458
+msgid "ARO to check."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:459
+msgid "ACO to check."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:460
+msgid "Action to check"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:464
+msgid "Grant an ARO permissions to an ACO."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:467
+msgid "Use this command to grant ACL permissions. Once executed, the ARO specified (and its children, if any) will have ALLOW access to the specified ACO action (and the ACO's children, if any)."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:470
+msgid "ARO to grant permission to."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:471
+msgid "ACO to grant access to."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:472
+msgid "Action to grant"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:476
+msgid "Deny an ARO permissions to an ACO."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:479
+msgid "Use this command to deny ACL permissions. Once executed, the ARO specified (and its children, if any) will have DENY access to the specified ACO action (and the ACO's children, if any)."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:482
+msgid "ARO to deny."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:483
+msgid "ACO to deny."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:484
+msgid "Action to deny"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:488
+msgid "Inherit an ARO's parent permissions."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:491
+msgid "Use this command to force a child ARO object to inherit its permissions settings from its parent."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:494
+msgid "ARO to have permissions inherit."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:495
+msgid "ACO to inherit permissions on."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:496
+msgid "Action to inherit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:500
+msgid "View a tree or a single node's subtree."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:503
+msgid "The view command will return the ARO or ACO tree."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:504
+msgid "The optional node parameter allows you to return"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:505
+msgid "only a portion of the requested tree."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:509
+msgid "The optional node to view the subtree of."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclShell.php:582
+msgid "Could not find node using reference \"{0}\""
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Admin/Blocks/add.ctp:70
+msgid "Add block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Blocks/index.ctp:11
+msgid "Blocks"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Admin/Blocks/edit.ctp:69
+msgid "Edit block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Admin/Blocks/index.ctp:5
+msgid "All Block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Admin/Blocks/view.ctp:7
+msgid "View block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/config/bootstrap.php:22
+msgid "Excerpt"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoriesController.php:273
+msgid "The %s has been move to trash."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoriesController.php:278
+msgid "The %s could not be move to trash. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Contents/view.ctp:10
+msgid "View"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Languages/add.ctp:5
+msgid "Add language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Languages/index.ctp:6
+msgid "Languages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Languages/edit.ctp:6
+msgid "Edit language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Admin/Languages/index.ctp:5
+msgid "All Language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Admin/Languages/view.ctp:7
+msgid "View language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:14
+msgid "Plugins"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:18
+msgid "Click on icon and drag to order plugin active."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:60
+msgid "Total plugins"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:25
+msgid "Plugin is active"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Template/Themes/index.ctp:122
+msgid "Version"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:75
+msgid "Author"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:48
+msgid "Deactive"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Extensions/index.ctp:59
+msgid "Plugin is deactive"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Template/Themes/index.ctp:83
+msgid "Active"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Event/IttvnEventHandler.php:39
+msgid "UnTrash"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/View/Helper/LayoutHelper.php:34
+msgid "Method %1$s::%2$s does not exist"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/photo_uploads.ctp:32
+msgid "Select Images"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/photo_uploads.ctp:33
+msgid "Uploads"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Cell/Menus/display_form.ctp:15
+msgid "Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/config/bootstrap.php:46
+msgid "Default Value"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:31
+msgid "Plugin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:138
+msgid "icon"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:157
+msgid "Is category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:161
+msgid "Select Multiple category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:165
+msgid "Show menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:169
+msgid "Model"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/config/bootstrap.php:320
+msgid "Meta Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/config/Seeds/SettingsSeed.php:43
+msgid "%s - New site"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Blocks/index.ctp:29
+msgid "Cells"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Cell/Forms/form_tab.ctp:108
+msgid "Save"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Categories/add_relation.ctp:10
+msgid "Add relation "
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Categories/edit_relation.ctp:10
+msgid "Edit relation "
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Cell/Forms/relation1.ctp:74
+msgid "Back"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Element/footer.ctp:5
+msgid "<strong>Copyright &copy; 2016.</strong>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/header.ctp:52
+msgid "Profile"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Menus/index.ctp:16
+msgid "Custom link"
+msgstr ""
+
+#: /home/ibooking/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/list_menu_admin.ctp:55
+msgid "Mega Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/list_menu_admin.ctp:79
+msgid "Dropdown Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Filemanage/index.ctp:14
+msgid "File Manage"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:16
+msgid "Medias"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Filemanage/index.ctp:27
+msgid "Source Tree"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Locales/add.ctp:66
+msgid "Add Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Translates/index.ctp:11
+msgid "Static text"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Locales/view.ctp:6
+msgid "Locales"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Locales/index.ctp:5
+msgid "All Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Locales/index.ctp:13
+msgid "Generate file to file po"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Locales/index.ctp:17
+msgid "Scan files"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:29
+msgid "Add Folder"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:38
+msgid "Delete Folder"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:49
+msgid "Rename Folder"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:113
+msgid "Titile or description"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:115
+msgid "Choose month"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:115
+msgid "Choose year"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/index.ctp:159
+msgid "Upload Medias"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Medias/popup.ctp:65
+msgid "Insert"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Menus/index.ctp:153
+msgid "Menus"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Menus/index.ctp:29
+msgid "Link"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Menus/index.ctp:128
+msgid "OFF"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Menus/index.ctp:128
+msgid "ON"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Menus/index.ctp:163
+msgid "Add menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaCategories/add.ctp:6
+msgid "Add Taxonomy"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaCategories/view.ctp:5
+msgid "Taxonomies"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaCategories/edit.ctp:5
+msgid "Edit Taxonomy"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaCategories/view.ctp:6
+msgid "View Taxonomy"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaTypes/add.ctp:5
+msgid "Add content type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaTypes/view.ctp:5
+msgid "Content types"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaTypes/edit.ctp:5
+msgid "Edit content type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/MetaTypes/view.ctp:6
+msgid "View content type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Metas/add.ctp:5
+msgid "Add Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Metas/view.ctp:5
+msgid "Extra Fields"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Metas/edit.ctp:5
+msgid "Edit Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Metas/view.ctp:6
+msgid "View Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Roles/add.ctp:5
+msgid "Add Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Roles/view.ctp:5
+msgid "Roles"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Roles/edit.ctp:5
+msgid "Edit Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Roles/index.ctp:6
+msgid "All Roles"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Roles/view.ctp:6
+msgid "View Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/add.ctp:5
+msgid "Add Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/view.ctp:4
+msgid "Settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/edit.ctp:5
+msgid "Edit Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/general.ctp:9
+msgid "General settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/index.ctp:6
+msgid "All Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/view.ctp:5
+msgid "View Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Template/Themes/index.ctp:5
+msgid "Themes"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Template/Themes/index.ctp:17
+msgid "Front end"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Template/Themes/index.ctp:18
+msgid "Admin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Template/Themes/index.ctp:19
+msgid "Add Theme"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Themes/index.ctp:126
+msgid "Are you sure you want to delete theme %s?"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Themes/index.ctp:173
+msgid "Front-end"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Themes/options.ctp:21
+msgid "Theme Options"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Translates/index.ctp:5
+msgid "Translate Text"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/add.ctp:20
+msgid "Add %s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/edit.ctp:19
+msgid "%s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/edit.ctp:20
+msgid "Edit %s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/permission.ctp:8
+msgid "Permission"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/view.ctp:5
+msgid "Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/permission.ctp:15
+msgid "Permission user by role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/permission.ctp:27
+msgid "Rebuild Actions"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Users/view.ctp:6
+msgid "View User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Cell/Tables/filter.ctp:29
+msgid "Keyword"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Cell/Tables/filter.ctp:32
+msgid "Search"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/View/Helper/AdminHelper.php:410
+msgid "Root"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:126
+msgid "The locale has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:128
+msgid "The locale could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/TranslatesController.php:82
+msgid "The translate has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/TranslatesController.php:84
+msgid "The translate could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Event/LocalesEventHandler.php:104
+msgid "Translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Locales/edit.ctp:69
+msgid "Edit locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Locales/view.ctp:7
+msgid "View locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Translates/add.ctp:72
+msgid "Add translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Translates/view.ctp:6
+msgid "Translates"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Translates/edit.ctp:71
+msgid "Edit translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Translates/index.ctp:5
+msgid "All Translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Admin/Translates/view.ctp:7
+msgid "View translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:9
+msgid "Female"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:10
+msgid "Male"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:50
+msgid "Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:173
+msgid "Url After Login"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:179
+msgid "Url After Logout"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/routes.php:17
+msgid "my-account"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/routes.php:18
+msgid "edit-account"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:130
+msgid "%s %s registered successfull."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:372
+msgid "You verified account successfull."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:377
+msgid "Error verify account successfull. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersController.php:189
+msgid "The %s has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersController.php:196
+msgid "The %s could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersController.php:54
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersController.php:246
+msgid "The %s has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersController.php:253
+msgid "The %s could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersController.php:298
+msgid "Updated permission by role "
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Email/html/register.ctp:5
+msgid "%s is registered."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Form/CheckroomForm.php:80
+msgid "%s checking room type: %s."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Cell/RoomTypes/check.ctp:5
+msgid "<strong>Request Successfully Sent!</strong><br />We will contact you shortly to confirm your request!"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Cell/RoomTypes/check.ctp:9
+msgid "Check Availability"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:10
+msgid "Check in"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:11
+msgid "Check out"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:12
+msgid "Adults"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:13
+msgid "Children"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Cell/RoomTypes/check.ctp:102
+msgid "Telephone"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Cell/RoomTypes/check.ctp:113
+msgid "Check now"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:1
+msgid "Infomation people checking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:7
+msgid "Infomation room type"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Email/html/check.ctp:8
+msgid "Room type"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:10
+msgid "Logo"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:15
+msgid "Hotline"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/menu_customer.ctp:11
+msgid "Tài khoản"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:25
+msgid "Cập nhật thông tin"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/update_password_customers.ctp:25
+msgid "Thay đôỉ mật khẩu"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:29
+msgid "Cài đặt website"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Logs/index_customers.ctp:24
+msgid "Lịch sử đăng nhập"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Messages/index_customers.ctp:24
+msgid "Thông báo"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/menu_customer_header.ctp:3
+msgid "Cập nhật tài khoản"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/school_theme.ctp:10
+msgid "Ngày kết nối: "
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/school_theme.ctp:18
+msgid "FREE"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/school_theme_detail.ctp:16
+msgid "Miễn phí"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/school_theme_detail.ctp:20
+msgid "CHỌN"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Cell/Theme/school_theme_detail.ctp:22
+msgid "XEM"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Element/footer.ctp:5
+msgid "<strong>Bản quyền &copy; 2016 thuộc trường học kết nối.</strong>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Element/header.ctp:13
+msgid "<strong>Hotline: </strong> %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Element/header.ctp:21
+msgid "<span>Hello %s</span>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Element/header.ctp:45
+msgid "Đăng nhập"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Element/header.ctp:48
+msgid "Đăng ký"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Email/html/updateinfo.ctp:5
+msgid "Xin chào %s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Logs/view.ctp:6
+msgid "Logs"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Cell/Logs/recent.ctp:9
+msgid "Ip"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Cell/Logs/recent.ctp:10
+msgid "Browser"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Messages/view.ctp:6
+msgid "Messages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:235
+msgid "Message"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Messages/index_customers.ctp:35
+msgid "Sender"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:247
+msgid "Priority"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:14
+msgid "Settings website"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:49
+msgid "Title is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:81
+msgid "Install database demo"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:131
+msgid "Domain name"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:132
+msgid "abc.com"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Sites/website_customers.ctp:134
+msgid "Domain name is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:222
+msgid "New Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:225
+msgid "New Password is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:235
+msgid "Confirm New Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:238
+msgid "Confirm New Password is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/changepass_customers.ctp:64
+msgid "Chnage"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/forgot_customers.ctp:8
+msgid "Forgot Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:41
+msgid "Email is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:42
+msgid "Email is not correct."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/forgot_customers.ctp:51
+msgid "Send"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:66
+msgid "Password is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/login_customers.ctp:78
+msgid "Login with Google"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/login_customers.ctp:81
+msgid "Login with Facebook"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:114
+msgid "Phone is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:54
+msgid "Phone is not number."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:79
+msgid "Confirm Password is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:95
+msgid "If you already have an account"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:101
+msgid "Register with Google"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/register_customers.ctp:104
+msgid "Register with Facebook"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/update_password_customers.ctp:10
+msgid "Update Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:203
+msgid "Đổi mật khẩu"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:211
+msgid "Old Password"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:213
+msgid "Old Password is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:43
+msgid "Cập nhật thông tin cá nhân."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:52
+msgid "First Name is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:73
+msgid "Last Name is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:102
+msgid "Birthday is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:115
+msgid "Phone is number."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:144
+msgid "Cập nhật thông tin đơn vị."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:153
+msgid "School Name is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/ItThemes/src/Template/Users/view_customers.ctp:174
+msgid "School Phone is not empty."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:19
+msgid "Curator"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:27
+msgid "Copy Right"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:31
+msgid "Image Default"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:36
+msgid "Background Body Color"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:40
+msgid "Background Card Title"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:44
+msgid "Color Title"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:48
+msgid "Color Title Hover"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:52
+msgid "Color Link"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/NewThemes/config/theme_options.php:56
+msgid "Color Link hover"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/School/src/Template/Cell/Content/slide.ctp:32
+msgid "Xem tiếp"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/related.ctp:3
+msgid "Tin liên quan"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/recent.ctp:10
+msgid "Views: %s"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/config/routes.php:102
+msgid "website"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/DomainsController.php:47
+msgid "Đã lưu tên miền thành công."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/DomainsController.php:49
+msgid "Lỗi không thể lưu tên miền.."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/DomainsController.php:52
+msgid "Có vẻ bạn đang hack tôi."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/DomainsController.php:55
+msgid "Bạn phải cập nhật và kích hoạt thông tin website trước khi thêm tên miền."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/SitesController.php:209
+msgid "Cập nhật thông tin website thành công."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/SitesController.php:215
+msgid "Lỗi cập nhật thông tin website."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Event/SitesEventHandler.php:38
+msgid "Filter user"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Routing/PrefixedRouteTrait.php:21
+msgid "This site not exist."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/ContentsController.php:32
+msgid "This %s not exist."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Model/Table/ContentsTable.php:255
+msgid "Default link"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:8
+msgid "Post Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:21
+msgid "Category Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:55
+msgid "Select All"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:35
+msgid "Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:49
+msgid "Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:63
+msgid "Limit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Cell/Content/display_form.ctp:76
+msgid "Show read more"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Cell/Menus/display_form.ctp:26
+msgid "Layout"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/FieldMetas/add.ctp:71
+msgid "Add fieldMeta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/FieldMetas/view.ctp:6
+msgid "Field Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/FieldMetas/edit.ctp:70
+msgid "Edit fieldMeta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/FieldMetas/index.ctp:5
+msgid "All FieldMeta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/FieldMetas/view.ctp:7
+msgid "View fieldMeta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Fields/view.ctp:6
+msgid "Fields"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Fields/index.ctp:5
+msgid "All Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Forms/add.ctp:90
+msgid "Add form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Forms/view.ctp:6
+msgid "Forms"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Forms/edit.ctp:89
+msgid "Edit form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Forms/index.ctp:5
+msgid "All Form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Admin/Forms/view.ctp:7
+msgid "View form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:14
+msgid "Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:15
+msgid "Posts"
+msgstr "Posts"
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:16
+msgid "Images"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:21
+msgid "Default skin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:22
+msgid "Border less dark"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:23
+msgid "Border less dark 3d"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:24
+msgid "Border less light"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:25
+msgid "Border less light 3d"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:26
+msgid "Carousel"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:27
+msgid "Dark skin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:28
+msgid "Full width"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:29
+msgid "Full width dark"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:30
+msgid "Glass"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:31
+msgid "Lightskin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:32
+msgid "Minimal"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:33
+msgid "V5"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:34
+msgid "No skin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:38
+msgid "Swing"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:39
+msgid "Ease In Quad"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:40
+msgid "Ease Out Quad"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:41
+msgid "Ease In Out Quad"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:42
+msgid "Ease In Cubic"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:43
+msgid "Ease Out Cubic"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:44
+msgid "Ease In Out Cubic"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:45
+msgid "Ease In Quart"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:46
+msgid "Ease Out Quart"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:47
+msgid "Ease In Out Quart"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:48
+msgid "Ease In Quint"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:49
+msgid "Ease Out Quint"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:50
+msgid "Ease In Out Quint"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:51
+msgid "Ease In Sine"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:52
+msgid "Ease Out Sine"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:53
+msgid "Ease In Out Sine"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:54
+msgid "Ease In Expo"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:55
+msgid "Ease Out Expo"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:56
+msgid "Ease In Out Expo"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:57
+msgid "Ease In Circ"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:58
+msgid "Ease Out Circ"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:59
+msgid "Ease In Out Circ"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:60
+msgid "Ease In Elastic"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:61
+msgid "Ease Out Elastic"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:62
+msgid "Ease In Out Elastic"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:63
+msgid "Ease In Back"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:64
+msgid "Ease Out Back"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:65
+msgid "Ease In Out Back"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:66
+msgid "Ease In Bounce"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:67
+msgid "Ease Out Bounce"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:68
+msgid "Ease In Out Bounce"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:148
+msgid "Skin"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:162
+msgid "Responsive"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/config/bootstrap.php:163
+msgid "Custom"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/GalleriesController.php:108
+msgid "Folder %s created."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/GalleriesController.php:110
+msgid "Folder %s can't create."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/GalleriesController.php:134
+msgid "Folder %s renamed."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/GalleriesController.php:136
+msgid "Folder %s can't rename."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/GalleriesController.php:206
+msgid "Folder %s deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/GalleriesController.php:208
+msgid "Folder %s can't delete."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Event/SlideshowEventHandler.php:90
+msgid "Add slide"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:21
+msgid "Auto start"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:167
+msgid "TRUE"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:167
+msgid "FALSE"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:28
+msgid "If true, slideshow will automatically start after loading the page."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:33
+msgid "Stop hover"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:40
+msgid "If ture, SlideShow will pause when you move the mouse pointer over the LayerSlider container."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:46
+msgid "Random Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:53
+msgid "If true, LayerSlider will change to a random layer instead of changing to the next / prev layer. Note that 'loops' feature won't work with randomSlideshow!"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:59
+msgid "Image Preload"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:66
+msgid "Image preload. Preloads all images and background-images of the next layer."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:72
+msgid "Nav Prev / Next"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:79
+msgid "If false, Prev and Next buttons will be invisible."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:85
+msgid "Nav Start / Stop"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:92
+msgid "If false, Start and Stop buttons will be invisible."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:98
+msgid "Nav Buttons"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:208
+msgid "If false, slide buttons will be invisible."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:111
+msgid "Thumbnail Navigation"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:115
+msgid "Hover"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:116
+msgid "Always"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:117
+msgid "Disabled"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:123
+msgid "Thumbnail navigation mode. Can be 'disabled', 'hover', 'always'. Note, that 'hover' setting needs navButtons true!"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:133
+msgid "Thumbnail width"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:139
+msgid "Width of the thumbnails (in pixels)."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:148
+msgid "Thumbnail height"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:154
+msgid "Height of the thumbnails (in pixels)."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:163
+msgid "Hover Prev/Next"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:175
+msgid "Hover Bottom Nav"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:188
+msgid "Show Bar Timer"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:201
+msgid "Show Circle Timer"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:223
+msgid "Layers Settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:234
+msgid "Slide Direction"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:240
+msgid "Top"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:241
+msgid "Bottom"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:242
+msgid "Fade"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:248
+msgid "Slide direction. New layers sliding FROM(!) this direction."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:198
+msgid "Slide Delay"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:203
+msgid "Time before the next slide will be loading."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:273
+msgid "Duration In"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:278
+msgid "Duration of the slide-in animation."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:287
+msgid "Duration Out"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:292
+msgid "Duration of the slide-out animation."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:304
+msgid "Easing In"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:326
+msgid "No Easing"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:331
+msgid "Easing (type of transition) of the slide-in animation."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:322
+msgid "Easing Out"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:343
+msgid "Delay In"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:348
+msgid "Delay time of the slide-in animation."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:357
+msgid "Delay Out"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Element/config_slideshow.ctp:363
+msgid "Delay time of the slide-out animation."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/add.ctp:7
+msgid "Add slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/view.ctp:6
+msgid "Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/edit.ctp:7
+msgid "Edit slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/index.ctp:5
+msgid "All Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:5
+msgid "Add slides"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:25
+msgid "Slides for slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:56
+msgid "Slide Images and Layers"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:71
+msgid "Image BG"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:72
+msgid "Transparent BG"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:73
+msgid "Solid BG"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:86
+msgid "Change Image"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:108
+msgid "Add layer"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:113
+msgid "Add layer: Image"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:118
+msgid "Add layer: Video"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:123
+msgid "Delete layer"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:140
+msgid "General Slide Settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:154
+msgid "The title of the slide, will be shown in the slides list."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:167
+msgid "The status of the slide. The false slide will be excluded from the slider."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:173
+msgid "Transition 2d"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:178
+msgid "Effect translation 2d. If null is all"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:184
+msgid "Transition 3d"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:189
+msgid "Effect translation 3d. If null is all"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:212
+msgid "Time Shift"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:217
+msgid "Time for change effect."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:252
+msgid "Layer General"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:262
+msgid "Text / Html"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:274
+msgid "Style"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:291
+msgid "Layer Animation"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:306
+msgid "Layer Links & Advanced Params "
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/slides.ctp:319
+msgid "Layers Timing"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Slideshow/view.ctp:7
+msgid "View slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Cell/Slideshow/show_form.ctp:8
+msgid "Slide"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenusController.php:39
+msgid "Home Page"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Cell/Menus/display_form.ctp:33
+msgid "Choose Layout"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Element/help.ctp:2
+msgid "Help"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Galleries/add.ctp:3
+msgid "Add folder of %s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Galleries/edit.ctp:12
+msgid "Folder name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Galleries/add.ctp:21
+msgid "Create"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Galleries/edit.ctp:3
+msgid "Edit name folder %s"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Galleries/edit.ctp:21
+msgid "Rename"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Settings/general.ctp:6
+msgid "Network settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Templates/src/Template/Admin/Themes/options.ctp:58
+msgid "Sync to languages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:14
+msgid "Normal"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:15
+msgid "Hight"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/config/bootstrap.php:16
+msgid "Very hight"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:138
+msgid "%s %s registered successfull. Please check email to active your account."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:144
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:182
+msgid "%s %s forgot password."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:190
+msgid "Please check email to change pasword."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:196
+msgid "This email address does not exist."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:233
+msgid "%s %s change password successfull."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:241
+msgid "Mật khẩu của bạn đã được thay đổi."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:247
+msgid "Lấy lại mật khẩu đã bị lỗi."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:256
+msgid "Mã lấy lại mật khẩu đã hết hạn."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:263
+msgid "Mã lấy lại mật khẩu bị lỗi hoặc không đúng. Xin vui lòng thử lại sau."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:333
+msgid "Thông tin %s đã được cập nhật."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:335
+msgid "Cập nhật thông tin đã bị lỗi."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:313
+msgid "Mật khẩu cũ không đúng."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Logs/add.ctp:75
+msgid "Add log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Logs/edit.ctp:74
+msgid "Edit log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Logs/index.ctp:5
+msgid "All Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Logs/view.ctp:7
+msgid "View log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Messages/add.ctp:7
+msgid "Add message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Messages/edit.ctp:6
+msgid "Edit message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Messages/index.ctp:5
+msgid "All Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/Messages/view.ctp:7
+msgid "View message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/MessagesUsers/add.ctp:76
+msgid "Add messagesUser"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/MessagesUsers/view.ctp:6
+msgid "Messages Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/MessagesUsers/edit.ctp:75
+msgid "Edit messagesUser"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/MessagesUsers/index.ctp:5
+msgid "All MessagesUser"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/MessagesUsers/view.ctp:7
+msgid "View messagesUser"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/UsersLogs/add.ctp:79
+msgid "Add usersLog"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/UsersLogs/view.ctp:6
+msgid "Users Logs"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/UsersLogs/edit.ctp:78
+msgid "Edit usersLog"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/UsersLogs/index.ctp:5
+msgid "All UsersLog"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Admin/UsersLogs/view.ctp:7
+msgid "View usersLog"
+msgstr ""
+

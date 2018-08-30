@@ -1,0 +1,60 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-02-24 04:47+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Admin/MetaCategories/view.ctp:3
+msgid "View Taxonomy"
+msgstr ""
+
+#: Template/Admin/MetaTypes/view.ctp:3
+msgid "View content type"
+msgstr ""
+
+#: Template/Admin/Metas/view.ctp:3
+msgid "View Field"
+msgstr ""
+
+#: Template/Admin/Metas/view.ctp:5
+msgid "Extra Fields"
+msgstr ""
+
+#: Template/Admin/Metas/view.ctp:6
+msgid "view Field"
+msgstr ""
+
+#: Template/Admin/Roles/view.ctp:3
+msgid "View Role"
+msgstr ""
+
+#: Template/Admin/Roles/view.ctp:5
+msgid "Roles"
+msgstr ""
+
+#: Template/Admin/Roles/view.ctp:6
+msgid "view Role"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:3
+msgid "View User"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:5
+msgid "Users"
+msgstr ""
+
+#: Template/Admin/Users/view.ctp:6
+msgid "view User"
+msgstr ""
+

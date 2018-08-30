@@ -1,0 +1,2592 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright ITTVN <info@ittvn.com>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2017-09-04 15:35+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:3
+msgid "Actions"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/index.ctp:33
+msgid "Delete"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:59
+msgid "List <%= $pluralHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:67
+msgid "List <%= $this->_pluralHumanName($alias) %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:40
+msgid "New <%= $this->_singularHumanName($alias) %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Element/form.ctp:59
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/edit.ctp:27
+msgid "Submit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:60
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/index.ctp:50
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/index.ctp:31
+msgid "View"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/index.ctp:32
+msgid "Edit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/index.ctp:41
+msgid "previous"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/index.ctp:43
+msgid "next"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/login.ctp:20
+msgid "Please enter your username and password"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/login.ctp:24
+msgid "Login"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:57
+msgid "Edit <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:58
+msgid "Delete <%= $singularHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:68
+msgid "New <%= Inflector::humanize(Inflector::singularize(Inflector::underscore($alias))) %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:86
+msgid "<%= Inflector::humanize($details["
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:142
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:79
+msgid "Yes"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:79
+msgid "No"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/cakephp/bake/src/Template/Bake/Template/view.ctp:137
+msgid "Related <%= $otherPluralHumanName %>"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Controller/Admin/BookingsController.php:114
+msgid "The booking has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Controller/Admin/BookingsController.php:117
+msgid "The booking could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Controller/Admin/BookingsController.php:136
+msgid "The booking has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Controller/Admin/BookingsController.php:138
+msgid "The booking could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:6
+msgid "List Bookings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:10
+msgid "List Contents"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:11
+msgid "New Content"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/add.ctp:12
+msgid "Add Booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:4
+msgid "Edit Booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:7
+msgid "New Booking"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/index.ctp:10
+msgid "Bookings"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:5
+msgid "Delete Booking"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:40
+msgid "Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:18
+msgid "First Name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:26
+msgid "Last Name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:38
+msgid "Email"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:46
+msgid "Phone"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:24
+msgid "Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:40
+msgid "Adults"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:44
+msgid "Children"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:52
+msgid "Checkin"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Booking/src/Template/Bookings/view.ctp:56
+msgid "Checkout"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:28
+msgid "Created"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:32
+msgid "Modified"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:78
+msgid "Status"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CountriesController.php:89
+msgid "The country has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CountriesController.php:92
+msgid "The country could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CountriesController.php:112
+msgid "The country has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CountriesController.php:114
+msgid "The country could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CitiesController.php:93
+msgid "The city has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CitiesController.php:96
+msgid "The city could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CitiesController.php:118
+msgid "The city has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/CitiesController.php:120
+msgid "The city could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/ProvincesController.php:92
+msgid "The province has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/ProvincesController.php:95
+msgid "The province could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/ProvincesController.php:116
+msgid "The province has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/ProvincesController.php:118
+msgid "The province could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/WardsController.php:94
+msgid "The ward has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/WardsController.php:97
+msgid "The ward could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/WardsController.php:120
+msgid "The ward has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Controller/Admin/WardsController.php:122
+msgid "The ward could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Cities/view.ctp:4
+msgid "Edit City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Cities/view.ctp:5
+msgid "Delete City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:12
+msgid "List Cities"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:13
+msgid "New City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:10
+msgid "List Provinces"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:11
+msgid "New Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:8
+msgid "List Countries"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:9
+msgid "New Country"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:6
+msgid "List Addresses"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:7
+msgid "New Address"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/view.ctp:16
+msgid "Name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/view.ctp:18
+msgid "Slug"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:40
+msgid "Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:36
+msgid "Country"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:51
+msgid "Related Addresses"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:28
+msgid "Company"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:59
+msgid "Country Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:60
+msgid "Province Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:61
+msgid "City Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:62
+msgid "Ward Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:54
+msgid "Address"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:90
+msgid "User Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:72
+msgid "Default"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Countries/view.ctp:4
+msgid "Edit Country"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Countries/view.ctp:5
+msgid "Delete Country"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Languages/view.ctp:18
+msgid "Code"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Provinces/view.ctp:91
+msgid "Related Cities"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Countries/view.ctp:121
+msgid "Related Provinces"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Provinces/view.ctp:4
+msgid "Edit Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Provinces/view.ctp:5
+msgid "Delete Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:4
+msgid "Edit Ward"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/view.ctp:5
+msgid "Delete Ward"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:14
+msgid "List Wards"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:15
+msgid "New Ward"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:44
+msgid "City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Cities/add.ctp:16
+msgid "Add City"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Cities/index.ctp:14
+msgid "Cities"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Countries/add.ctp:16
+msgid "Add Country"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Countries/index.ctp:14
+msgid "Countries"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Provinces/add.ctp:16
+msgid "Add Province"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Provinces/index.ctp:14
+msgid "Provinces"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/add.ctp:18
+msgid "Add Ward"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Countries/src/Template/Wards/index.ctp:16
+msgid "Wards"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/AddressesController.php:85
+msgid "The address has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/AddressesController.php:88
+msgid "The address could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/AddressesController.php:106
+msgid "The address has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/AddressesController.php:108
+msgid "The address could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributeProductsController.php:82
+msgid "The attribute product has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributeProductsController.php:85
+msgid "The attribute product could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributeProductsController.php:106
+msgid "The attribute product has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributeProductsController.php:108
+msgid "The attribute product could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributesController.php:81
+msgid "The attribute has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributesController.php:84
+msgid "The attribute could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributesController.php:102
+msgid "The attribute has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/AttributesController.php:104
+msgid "The attribute could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/FiltersController.php:91
+msgid "The filter has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/FiltersController.php:94
+msgid "The filter could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/FiltersController.php:114
+msgid "The filter has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/FiltersController.php:116
+msgid "The filter could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrderdetailsController.php:98
+msgid "The orderdetail has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrderdetailsController.php:101
+msgid "The orderdetail could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrderdetailsController.php:123
+msgid "The orderdetail has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrderdetailsController.php:125
+msgid "The orderdetail could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrdersController.php:99
+msgid "The order has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrdersController.php:102
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrdersController.php:125
+msgid "The order has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/OrdersController.php:127
+msgid "The order could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/PaymentsController.php:96
+msgid "The payment has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/PaymentsController.php:99
+msgid "The payment could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/PaymentsController.php:120
+msgid "The payment has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/PaymentsController.php:122
+msgid "The payment could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/WishlistsController.php:99
+msgid "The wishlist has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/WishlistsController.php:102
+msgid "The wishlist could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/WishlistsController.php:125
+msgid "The wishlist has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Controller/Admin/WishlistsController.php:127
+msgid "The wishlist could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:4
+msgid "Edit Address"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:5
+msgid "Delete Address"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:6
+msgid "List Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:7
+msgid "New User"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Addresses/view.ctp:48
+msgid "Ward"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UserMetas/view.ctp:20
+msgid "User"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:8
+msgid "List Attribute Products"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:6
+msgid "List Attributes"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:7
+msgid "New Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/AttributeProducts/add.ctp:14
+msgid "Add Attribute Product"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/AttributeProducts/view.ctp:4
+msgid "Edit Attribute Product"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:9
+msgid "New Attribute Product"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/AttributeProducts/index.ctp:12
+msgid "Attribute Products"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/AttributeProducts/view.ctp:5
+msgid "Delete Attribute Product"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/AttributeProducts/view.ctp:22
+msgid "Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:89
+msgid "Value"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:4
+msgid "Edit Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:5
+msgid "Delete Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:18
+msgid "Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:55
+msgid "Options"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:45
+msgid "Related Attribute Products"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:51
+msgid "Content Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/view.ctp:51
+msgid "Attribute Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:12
+msgid "List Orderdetails"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:8
+msgid "List Orders"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:9
+msgid "New Order"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/add.ctp:14
+msgid "Add Orderdetail"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/view.ctp:4
+msgid "Edit Orderdetail"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:13
+msgid "New Orderdetail"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Orderdetails/index.ctp:12
+msgid "Orderdetails"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orderdetails/view.ctp:5
+msgid "Delete Orderdetail"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:87
+msgid "Order Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:58
+msgid "Price"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:89
+msgid "Quantity"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:90
+msgid "Total"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:45
+msgid "Related Orders"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:51
+msgid "Request"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:53
+msgid "Receiver"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:56
+msgid "Fee"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:57
+msgid "Payment Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:59
+msgid "Orderdetail Id"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:61
+msgid "Check"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:6
+msgid "List Payments"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:7
+msgid "New Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/add.ctp:16
+msgid "Add Order"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:4
+msgid "Edit Order"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Admin/Orders/index.ctp:14
+msgid "Orders"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:5
+msgid "Delete Order"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:44
+msgid "Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Orders/view.ctp:81
+msgid "Related Orderdetails"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:4
+msgid "Edit Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/view.ctp:5
+msgid "Delete Payment"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:37
+msgid "Description"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Attributes/add.ctp:12
+msgid "Add Attribute"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:53
+msgid "Attributes"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Filters/view.ctp:6
+msgid "List Filters"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Filters/add.ctp:10
+msgid "Add Filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Filters/view.ctp:4
+msgid "Edit Filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Filters/view.ctp:7
+msgid "New Filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Filters/index.ctp:8
+msgid "Filters"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Filters/view.ctp:5
+msgid "Delete Filter"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/add.ctp:12
+msgid "Add Payment"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Payments/index.ctp:10
+msgid "Payments"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/view.ctp:6
+msgid "List Wishlists"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/add.ctp:14
+msgid "Add Wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/view.ctp:4
+msgid "Edit Wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/view.ctp:5
+msgid "Delete Wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Products/src/Template/Wishlists/view.ctp:7
+msgid "New Wishlist"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/ApisController.php:90
+msgid "The api has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/ApisController.php:93
+msgid "The api could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/ApisController.php:113
+msgid "The api has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/ApisController.php:115
+msgid "The api could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/DomainsController.php:92
+msgid "The domain has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/DomainsController.php:95
+msgid "The domain could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/DomainsController.php:116
+msgid "The domain has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/DomainsController.php:118
+msgid "The domain could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/SitesController.php:126
+msgid "The site has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/SitesController.php:129
+msgid "The site could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/SitesController.php:169
+msgid "The site has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/SitesController.php:171
+msgid "The site could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/SitesController.php:149
+msgid "The site has been trash."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Controller/Admin/SitesController.php:151
+msgid "The site could not be trash. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/view.ctp:6
+msgid "List Apis"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/add.ctp:10
+msgid "Add Api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/view.ctp:4
+msgid "Edit Api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/view.ctp:7
+msgid "New Api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/index.ctp:8
+msgid "Apis"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/view.ctp:5
+msgid "Delete Api"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Apis/view.ctp:22
+msgid "Method"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:10
+msgid "List Domains"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:6
+msgid "List Sites"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:7
+msgid "New Site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Domains/add.ctp:12
+msgid "Add Domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Domains/view.ctp:4
+msgid "Edit Domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:11
+msgid "New Domain"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Domains/index.ctp:10
+msgid "Domains"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Domains/view.ctp:5
+msgid "Delete Domain"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Logs/view.ctp:20
+msgid "Ip"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Domains/view.ctp:24
+msgid "Site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/add.ctp:14
+msgid "Add Site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:4
+msgid "Edit Site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/index.ctp:12
+msgid "Sites"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:5
+msgid "Delete Site"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:26
+msgid "PublicKey"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:30
+msgid "PrivateKey"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:59
+msgid "Database"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:63
+msgid "Related Domains"
+msgstr ""
+
+#: /home/s2s/public_html/plugins/Sites/src/Template/Sites/view.ctp:70
+msgid "Site Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/AclExtras.php:468
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclExtrasShell.php:108
+msgid "Plugin to process"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclExtrasShell.php:110
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclExtrasShell.php:115
+msgid "Add new ACOs for new controllers and actions. Does not remove nodes from the ACO table."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclExtrasShell.php:120
+msgid "Perform a full sync on the ACO table.Will create new ACOs or missing controllers and actions.Will also remove orphaned entries that no longer have a matching controller/action"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclExtrasShell.php:124
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Acl/src/Shell/AclExtrasShell.php:129
+msgid "The type of tree to recover"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Controller/Admin/BlocksController.php:94
+msgid "The block has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Controller/Admin/BlocksController.php:97
+msgid "The block could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Controller/BlocksController.php:114
+msgid "The block has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Controller/BlocksController.php:116
+msgid "The block could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/view.ctp:6
+msgid "List Blocks"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/add.ctp:10
+msgid "Add Block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/view.ctp:4
+msgid "Edit Block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/view.ctp:7
+msgid "New Block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/index.ctp:8
+msgid "Blocks"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/view.ctp:5
+msgid "Delete Block"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Blocks/src/Template/Blocks/view.ctp:39
+msgid "Html"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoriesController.php:231
+msgid "The category has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoriesController.php:234
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoriesController.php:253
+msgid "The category has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoriesController.php:255
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryContentsController.php:81
+msgid "The category content has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryContentsController.php:84
+msgid "The category content could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryContentsController.php:123
+msgid "The category content has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryContentsController.php:125
+msgid "The category content could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryMetasController.php:77
+msgid "The category meta has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryMetasController.php:80
+msgid "The category meta could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryMetasController.php:99
+msgid "The category meta has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/CategoryMetasController.php:101
+msgid "The category meta could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/ContentMetasController.php:77
+msgid "The content meta has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/ContentMetasController.php:80
+msgid "The content meta could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/ContentMetasController.php:99
+msgid "The content meta has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/ContentMetasController.php:101
+msgid "The content meta could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/ContentsController.php:275
+msgid "The content has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/Admin/ContentsController.php:278
+msgid "The content could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/ContentsController.php:182
+msgid "The content has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Controller/ContentsController.php:184
+msgid "The content could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:474
+msgid "The "
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:10
+msgid "List Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:8
+msgid "List Parent Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:9
+msgid "New Parent Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:6
+msgid "List Meta Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:7
+msgid "New Meta Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryMetas/view.ctp:6
+msgid "List Category Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryMetas/view.ctp:7
+msgid "New Category Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:8
+msgid "List Category Contents"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:9
+msgid "New Category Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/add.ctp:18
+msgid "Add Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:4
+msgid "Edit Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:11
+msgid "New Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/index.ctp:14
+msgid "Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:5
+msgid "Delete Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:34
+msgid "Parent Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:38
+msgid "Meta Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:56
+msgid "Lft"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:57
+msgid "Rght"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:59
+msgid "Category Meta Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:67
+msgid "Related Category Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:88
+msgid "Key"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:50
+msgid "Category Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:47
+msgid "Related Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:55
+msgid "Parent Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:58
+msgid "Meta Category Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Categories/view.ctp:145
+msgid "Related Category Contents"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryContents/add.ctp:14
+msgid "Add Category Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryContents/view.ctp:4
+msgid "Edit Category Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryContents/index.ctp:12
+msgid "Category Contents"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryContents/view.ctp:5
+msgid "Delete Category Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:36
+msgid "Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/view.ctp:41
+msgid "Related Contents"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:57
+msgid "Excerpt"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Languages/view.ctp:22
+msgid "Image"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/view.ctp:51
+msgid "Category Content Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/view.ctp:52
+msgid "Meta Type Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:44
+msgid "Content Meta Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryMetas/add.ctp:12
+msgid "Add Category Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryMetas/view.ctp:4
+msgid "Edit Category Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryMetas/index.ctp:10
+msgid "Category Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/CategoryMetas/view.ctp:5
+msgid "Delete Category Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:12
+msgid "List Content Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/add.ctp:12
+msgid "Add Content Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/view.ctp:4
+msgid "Edit Content Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:13
+msgid "New Content Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/index.ctp:10
+msgid "Content Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/ContentMetas/view.ctp:5
+msgid "Delete Content Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/view.ctp:6
+msgid "List Meta Types"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/view.ctp:7
+msgid "New Meta Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/add.ctp:16
+msgid "Add Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:4
+msgid "Edit Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/index.ctp:14
+msgid "Contents"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:5
+msgid "Delete Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:32
+msgid "Category Content"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:30
+msgid "Meta Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Contents/src/Template/Contents/view.ctp:65
+msgid "Related Content Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Controller/Admin/LanguagesController.php:91
+msgid "The language has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Controller/Admin/LanguagesController.php:94
+msgid "The language could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Controller/Admin/LanguagesController.php:112
+msgid "The language has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Controller/Admin/LanguagesController.php:114
+msgid "The language could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Controller/Admin/ExtensionsController.php:53
+msgid "Plugin %s has been actived."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Controller/Admin/ExtensionsController.php:82
+msgid "Plugin %s has been deactived."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:8
+msgid "List Languages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Languages/add.ctp:10
+msgid "Add Language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Languages/view.ctp:4
+msgid "Edit Language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:9
+msgid "New Language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Languages/index.ctp:8
+msgid "Languages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Extensions/src/Template/Languages/view.ctp:5
+msgid "Delete Language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Controller/Component/IttvnComponent.php:53
+msgid "Items is move to trash."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Controller/Component/IttvnComponent.php:55
+msgid "Items is not move to trash. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Controller/Component/IttvnComponent.php:61
+msgid "Items is untrash."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Controller/Component/IttvnComponent.php:63
+msgid "Items is error untrash. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Controller/Component/IttvnComponent.php:71
+msgid "Items is deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Controller/Component/IttvnComponent.php:73
+msgid "Items is not delete. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Ittvn/src/Utility/UploadLocal.php:233
+msgid "ittvn"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/GalleriesController.php:77
+msgid "The gallery has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/GalleriesController.php:80
+msgid "The gallery could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/GalleriesController.php:99
+msgid "The gallery has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/GalleriesController.php:101
+msgid "The gallery could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/MediasController.php:88
+msgid "The media has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/MediasController.php:91
+msgid "The media could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/MediasController.php:104
+msgid "The media has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/MediasController.php:106
+msgid "The media could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:8
+msgid "List Galleries"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Galleries/view.ctp:8
+msgid "List Parent Galleries"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Galleries/view.ctp:9
+msgid "New Parent Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/view.ctp:6
+msgid "List Medias"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/view.ctp:7
+msgid "New Media"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Galleries/add.ctp:12
+msgid "Add Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Galleries/view.ctp:4
+msgid "Edit Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:9
+msgid "New Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Galleries/index.ctp:10
+msgid "Galleries"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Galleries/view.ctp:5
+msgid "Delete Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Galleries/view.ctp:30
+msgid "Parent Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Admin/Galleries/view.ctp:59
+msgid "Related Galleries"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Galleries/view.ctp:57
+msgid "Related Medias"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:20
+msgid "Url"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/view.ctp:40
+msgid "Size"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Galleries/view.ctp:67
+msgid "Gallery Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/add.ctp:12
+msgid "Add Media"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/view.ctp:4
+msgid "Edit Media"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/index.ctp:10
+msgid "Medias"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Medias/view.ctp:5
+msgid "Delete Media"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:26
+msgid "Gallery"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenusController.php:209
+msgid "The menu has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenusController.php:212
+msgid "The menu could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenusController.php:227
+msgid "The menu has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenusController.php:229
+msgid "The menu could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenutypesController.php:78
+msgid "The menutype has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenutypesController.php:81
+msgid "The menutype could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenutypesController.php:100
+msgid "The menutype has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Controller/Admin/MenutypesController.php:102
+msgid "The menutype could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:8
+msgid "List Menus"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:6
+msgid "List Menutypes"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:7
+msgid "New Menutype"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/add.ctp:16
+msgid "Add Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:4
+msgid "Edit Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:9
+msgid "New Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/index.ctp:14
+msgid "Menus"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:5
+msgid "Delete Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menus/view.ctp:44
+msgid "Menutype"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/add.ctp:12
+msgid "Add Menutype"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:4
+msgid "Edit Menutype"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/index.ctp:10
+msgid "Menutypes"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:5
+msgid "Delete Menutype"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:41
+msgid "Related Menus"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Menus/src/Template/Menutypes/view.ctp:52
+msgid "Menutype Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaCategoriesController.php:80
+msgid "The meta category has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaCategoriesController.php:83
+msgid "The meta category could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaCategoriesController.php:102
+msgid "The meta category has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaCategoriesController.php:104
+msgid "The meta category could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaTypesController.php:82
+msgid "The meta type has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaTypesController.php:85
+msgid "The meta type could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaTypesController.php:122
+msgid "The meta type has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetaTypesController.php:124
+msgid "The meta type could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetasController.php:83
+msgid "The meta has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetasController.php:86
+msgid "The meta could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetasController.php:105
+msgid "The meta has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Controller/Admin/MetasController.php:107
+msgid "The meta could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/add.ctp:14
+msgid "Add Meta Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:4
+msgid "Edit Meta Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/index.ctp:12
+msgid "Meta Categories"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaCategories/view.ctp:5
+msgid "Delete Meta Category"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/add.ctp:10
+msgid "Add Meta Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/view.ctp:4
+msgid "Edit Meta Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/index.ctp:8
+msgid "Meta Types"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/view.ctp:5
+msgid "Delete Meta Type"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/view.ctp:14
+msgid "Model"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/MetaTypes/view.ctp:42
+msgid "Menu"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/view.ctp:6
+msgid "List Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/add.ctp:10
+msgid "Add Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/view.ctp:4
+msgid "Edit Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/view.ctp:7
+msgid "New Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/index.ctp:8
+msgid "Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/view.ctp:5
+msgid "Delete Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Metas/src/Template/Metas/view.ctp:34
+msgid "Foreign Key"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Controller/Admin/SettingsController.php:202
+msgid "The setting has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Controller/Admin/SettingsController.php:205
+msgid "The setting could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Controller/Admin/SettingsController.php:223
+msgid "The setting has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Controller/Admin/SettingsController.php:225
+msgid "The setting could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Controller/Admin/SettingsController.php:243
+msgid "The setting has been move to trash."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Controller/Admin/SettingsController.php:248
+msgid "The setting could not be move to trash. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:6
+msgid "List Settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/add.ctp:10
+msgid "Add Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:4
+msgid "Edit Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:7
+msgid "New Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/index.ctp:8
+msgid "Settings"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:5
+msgid "Delete Setting"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:26
+msgid "Order"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:38
+msgid "Editable"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Settings/src/Template/Settings/view.ctp:42
+msgid "Autoload"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Controller/Admin/ThemesController.php:42
+msgid "Please, choose type theme."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Controller/Admin/ThemesController.php:69
+msgid "Theme %s has been actived."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Controller/Admin/ThemesController.php:78
+msgid "The theme has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Themes/src/Controller/Admin/ThemesController.php:80
+msgid "The theme could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:153
+msgid "The locale has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:156
+msgid "The locale could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:176
+msgid "The locale has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:178
+msgid "The locale could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/TranslatesController.php:106
+msgid "The translate has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/TranslatesController.php:109
+msgid "The translate could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/TranslatesController.php:131
+msgid "The translate has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/TranslatesController.php:133
+msgid "The translate could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:245
+msgid "Generate file po successfull."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Controller/Admin/LocalesController.php:306
+msgid "Load all key translate."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:10
+msgid "List Locales"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:6
+msgid "List Translates"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:7
+msgid "New Translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/add.ctp:12
+msgid "Add Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:4
+msgid "Edit Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:11
+msgid "New Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/index.ctp:10
+msgid "Locales"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:5
+msgid "Delete Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:16
+msgid "Domain"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:33
+msgid "Msgid"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:41
+msgid "Related Translates"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:46
+msgid "Language Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Locales/view.ctp:47
+msgid "Locale Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:31
+msgid "Msgstr"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/add.ctp:14
+msgid "Add Translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:4
+msgid "Edit Translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/index.ctp:12
+msgid "Translates"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:5
+msgid "Delete Translate"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:18
+msgid "Language"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Translates/src/Template/Translates/view.ctp:22
+msgid "Locale"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/RolesController.php:86
+msgid "The role has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/RolesController.php:89
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/RolesController.php:108
+msgid "The role has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/RolesController.php:110
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UserMetasController.php:81
+msgid "The user meta has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UserMetasController.php:84
+msgid "The user meta could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UserMetasController.php:104
+msgid "The user meta has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UserMetasController.php:106
+msgid "The user meta could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/ibooking/public_html/vendor/ittvn/Users/src/Controller/UsersController.php:44
+msgid "Invalid username or password, try again"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Api/UsersController.php:123
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Api/UsersController.php:120
+msgid "The user has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Api/UsersController.php:142
+msgid "The user has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Api/UsersController.php:144
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:8
+msgid "List Roles"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/add.ctp:12
+msgid "Add Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/view.ctp:4
+msgid "Edit Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:9
+msgid "New Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/index.ctp:10
+msgid "Roles"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/view.ctp:5
+msgid "Delete Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/view.ctp:25
+msgid "Related Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:22
+msgid "Middle Name"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:30
+msgid "Username"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:34
+msgid "Password"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:42
+msgid "Avatar"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:50
+msgid "Public Key"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:54
+msgid "Private Key"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:58
+msgid "Active Code"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Roles/view.ctp:41
+msgid "Role Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:10
+msgid "List User Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UserMetas/add.ctp:12
+msgid "Add User Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UserMetas/view.ctp:4
+msgid "Edit User Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:11
+msgid "New User Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UserMetas/index.ctp:10
+msgid "User Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UserMetas/view.ctp:5
+msgid "Delete User Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/add.ctp:14
+msgid "Add User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:4
+msgid "Edit User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/index.ctp:12
+msgid "Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:5
+msgid "Delete User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:62
+msgid "Role"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Users/view.ctp:83
+msgid "Related User Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldMetasController.php:98
+msgid "The field meta has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldMetasController.php:101
+msgid "The field meta could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldMetasController.php:123
+msgid "The field meta has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldMetasController.php:125
+msgid "The field meta could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldsController.php:98
+msgid "The field has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldsController.php:101
+msgid "The field could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldsController.php:123
+msgid "The field has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FieldsController.php:125
+msgid "The field could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FormsController.php:96
+msgid "The form has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FormsController.php:99
+msgid "The form could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FormsController.php:120
+msgid "The form has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Controller/Admin/FormsController.php:122
+msgid "The form could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:10
+msgid "List Field Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:8
+msgid "List Fields"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:9
+msgid "New Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/FieldMetas/add.ctp:12
+msgid "Add Field Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/FieldMetas/view.ctp:4
+msgid "Edit Field Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:11
+msgid "New Field Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/FieldMetas/index.ctp:10
+msgid "Field Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/FieldMetas/view.ctp:5
+msgid "Delete Field Meta"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/FieldMetas/view.ctp:20
+msgid "Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:6
+msgid "List Forms"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:7
+msgid "New Form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/add.ctp:14
+msgid "Add Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:4
+msgid "Edit Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/index.ctp:12
+msgid "Fields"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:5
+msgid "Delete Field"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:34
+msgid "Form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:59
+msgid "Related Field Metas"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Fields/view.ctp:66
+msgid "Field Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/add.ctp:12
+msgid "Add Form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:4
+msgid "Edit Form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/index.ctp:10
+msgid "Forms"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:5
+msgid "Delete Form"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:40
+msgid "List"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:49
+msgid "Before Submit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:53
+msgid "After Submit"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:57
+msgid "Js"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:61
+msgid "Css"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:65
+msgid "Related Fields"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/ItForms/src/Template/Forms/view.ctp:76
+msgid "Form Id"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/SlideshowController.php:107
+msgid "The slideshow has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/SlideshowController.php:110
+msgid "The slideshow could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/SlideshowController.php:134
+msgid "The slideshow has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Controller/Admin/SlideshowController.php:136
+msgid "The slideshow could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:6
+msgid "List Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/add.ctp:14
+msgid "Add Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:4
+msgid "Edit Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:7
+msgid "New Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/index.ctp:12
+msgid "Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:5
+msgid "Delete Slideshow"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Medias/src/Template/Slideshow/view.ctp:51
+msgid "Config"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/LogsController.php:92
+msgid "The log has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/LogsController.php:95
+msgid "The log could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/LogsController.php:116
+msgid "The log has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/LogsController.php:118
+msgid "The log could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:94
+msgid "The message has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:97
+msgid "The message could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:118
+msgid "The message has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:120
+msgid "The message could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:165
+msgid "The %s has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:259
+msgid "The %s could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesController.php:306
+msgid "The %s not relationship %s."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesUsersController.php:99
+msgid "The messages user has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesUsersController.php:102
+msgid "The messages user could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesUsersController.php:125
+msgid "The messages user has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/MessagesUsersController.php:127
+msgid "The messages user could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersLogsController.php:98
+msgid "The users log has been saved."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersLogsController.php:101
+msgid "The users log could not be saved. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersLogsController.php:123
+msgid "The users log has been deleted."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Controller/Admin/UsersLogsController.php:125
+msgid "The users log could not be deleted. Please, try again."
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:8
+msgid "List Logs"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Logs/add.ctp:12
+msgid "Add Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Logs/view.ctp:4
+msgid "Edit Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:9
+msgid "New Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Logs/index.ctp:10
+msgid "Logs"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Logs/view.ctp:5
+msgid "Delete Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Logs/view.ctp:24
+msgid "Browser"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:28
+msgid "Create"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:10
+msgid "List Messages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/add.ctp:12
+msgid "Add Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/add_associated.ctp:20
+msgid "Add Associated Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/add_relation.ctp:20
+msgid "Add Relation Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:4
+msgid "Edit Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/edit_associated.ctp:26
+msgid "Edit Associated Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/edit_relation.ctp:26
+msgid "Edit Relation Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:11
+msgid "New Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/index.ctp:10
+msgid "Messages"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:5
+msgid "Delete Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:16
+msgid "Title"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:24
+msgid "Priority"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:22
+msgid "Message"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:61
+msgid "Sex"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/Messages/view.ctp:62
+msgid "Birthday"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:6
+msgid "List Messages Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/add.ctp:14
+msgid "Add Messages User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:4
+msgid "Edit Messages User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:7
+msgid "New Messages User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/index.ctp:12
+msgid "Messages Users"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:5
+msgid "Delete Messages User"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:30
+msgid "Date"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/MessagesUsers/view.ctp:34
+msgid "Read"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:6
+msgid "List Users Logs"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/add.ctp:12
+msgid "Add Users Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:4
+msgid "Edit Users Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:7
+msgid "New Users Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/index.ctp:10
+msgid "Users Logs"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:5
+msgid "Delete Users Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:16
+msgid "Log"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:37
+msgid "Params"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:41
+msgid "Query"
+msgstr ""
+
+#: /home/s2s/public_html/vendor/ittvn/Users/src/Template/UsersLogs/view.ctp:45
+msgid "Data"
+msgstr ""
+
